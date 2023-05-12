@@ -1,0 +1,83 @@
+:root {
+    --darker: #141010;
+    --dark: #5c5470;
+    --light: #a2a8d3;
+    --purp: #d59bf6;
+    --green: #8ef6e4;
+    --text: #ffe9e3;
+}
+body {
+    background-color: var(--dark);
+    color: var(--text);
+}
+
+header {
+    position: fixed;
+    background-color: var(--dark);
+    width: 100%;
+    max-width: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.filler {
+    background-color: var(--dark);
+    width: auto;
+    height: 120px;
+}
+.navbar {
+    margin: 5px;
+    padding: 2px;
+    border: solid 2px var(--green);
+    color: var(--text);
+    background-color: var(--light);
+    height: 20%;
+}
+
+.sec1, .sec3 {
+    background-color: var(--purp);
+    padding: 55px;
+    border: 2px var(--green) dotted;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+}
+
+
+
+.about-me-item{
+    padding: 45px;
+    border: dashed blue;
+}
+.sec2 {
+    background-color: var(--light);
+    border: dotted 2px var(--green);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.pleebs img {
+
+    width: 400px;
+    height: 400px;
+}
+
+.first-application img {
+    width: 720px;
+    height: 720px;
+}
+
+
+
+
+.about-me img {
+    height: 125px;
+    width: 125px;
+}
+
+.sec3 li {
+    color: navy;
+}
