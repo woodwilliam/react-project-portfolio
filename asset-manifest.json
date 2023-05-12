@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/woodwilliam/react-project-portfolio/static/css/main.df338b66.css",
+    "main.js": "/woodwilliam/react-project-portfolio/static/js/main.056d8824.js",
+    "static/media/Willpic.jpg": "/woodwilliam/react-project-portfolio/static/media/Willpic.e084b88ee3de1bdfd11a.jpg",
+    "static/media/project4.png": "/woodwilliam/react-project-portfolio/static/media/project4.5f6a331e22986806b700.png",
+    "static/media/project3.jpg": "/woodwilliam/react-project-portfolio/static/media/project3.b2a2989403b0b9618236.jpg",
+    "index.html": "/woodwilliam/react-project-portfolio/index.html",
+    "main.df338b66.css.map": "/woodwilliam/react-project-portfolio/static/css/main.df338b66.css.map",
+    "main.056d8824.js.map": "/woodwilliam/react-project-portfolio/static/js/main.056d8824.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df338b66.css",
+    "static/js/main.056d8824.js"
+  ]
+}
