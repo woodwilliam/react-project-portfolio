@@ -30,9 +30,9 @@ function MyWork() {
           />
         </a>
       </div>
-      <h3>App 3: Prework Study Guide</h3>
+      <h3>App 3: Java RX</h3>
       <div class="pleebs">
-        <a href="https://woodwilliam.github.io/prework-study-guide/">
+        <a href="https://github.com/jonahkane/Java-Rx">
           <img
             src={Project3}
             title="click me!"
